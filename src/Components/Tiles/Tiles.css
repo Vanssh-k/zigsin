@@ -1,0 +1,6 @@
+.tiles{
+    padding: 80px 0px 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #f4f8fd    ;
+}

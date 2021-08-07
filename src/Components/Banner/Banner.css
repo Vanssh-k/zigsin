@@ -1,0 +1,12 @@
+.banner img{
+    width: 100%;
+}
+.cover{
+    background-color: rgba(0, 0, 0, .6);
+    width : 400px;
+    height: 240px;
+    text-align: center;
+    padding: 20px 30px;
+    margin: auto;
+    color: #fff;
+}

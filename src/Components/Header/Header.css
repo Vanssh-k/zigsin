@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.navbar a{
+    margin: 30px;
+    cursor: pointer;
+}
+.Search{
+    position: relative;
+    top: 8px;   
+}
